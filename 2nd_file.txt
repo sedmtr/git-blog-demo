@@ -4,3 +4,5 @@ Contents of 2nd file.
 3
 4
 5
+7
+8
